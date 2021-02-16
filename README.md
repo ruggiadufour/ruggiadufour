@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋, my name is Angel Ruggia Dufour and I am a system analyst, front-end developer and a student of system engineering. I like computing, programming and solving problems whether they are mathematical, logical, etc. and above all I like to learn new things.
 
 <!--
 **ruggiadufour/ruggiadufour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
